@@ -1,0 +1,20 @@
+JHX//CORE — Licencia de uso
+
+Copyright (c) 2026 JHX (DevJhxsee). Todos los derechos reservados.
+
+Se te permite instalar y usar JHX//CORE, tal como se distribuye en este repositorio,
+para tu uso personal y con tu propia cuenta de Claude.
+
+No se permite, sin autorización escrita del autor:
+  - copiar, redistribuir, vender, alquilar ni publicar el programa o partes de él;
+  - descompilar, desarmar, modificar o crear obras derivadas del programa;
+  - quitar, eludir o desactivar sus protecciones (por ejemplo, «evitar copias»);
+  - presentar el programa como propio.
+
+EL PROGRAMA SE ENTREGA «TAL CUAL», SIN GARANTÍA DE NINGÚN TIPO. EL AUTOR NO ES
+RESPONSABLE DE PÉRDIDAS DE DATOS NI DE DAÑOS DERIVADOS DE SU USO.
+
+JHX//CORE no es un producto oficial de Anthropic. Claude y Claude Code pertenecen a
+Anthropic y se rigen por sus propios términos.
+
+Las normas de uso (NORMAS-DE-USO.txt) forman parte de esta licencia.

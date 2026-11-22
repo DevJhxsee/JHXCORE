@@ -1,0 +1,23 @@
+1 · Uso personal.
+JHX//CORE sirve para usar TU cuenta de Claude. No compartas tu token ni tu PIN con nadie.
+
+2 · Tu cuenta, tus condiciones.
+Claude y Claude Code son de Anthropic: sigues sujeto a sus términos y a los límites de tu plan. JHX//CORE no es un producto oficial de Anthropic.
+
+3 · Sin copias ni reventa.
+No copies, redistribuyas, vendas ni publiques este programa, ni intentes abrirlo o modificarlo para quitarle protecciones.
+
+4 · Protección contra copias.
+Si activas «evitar copias» (es obligatoria en memorias y discos externos), mover o copiar la carpeta cierra la sesión vinculada: tendrás que vincular otra vez.
+
+5 · Tú decides qué hace Claude.
+Claude puede leer, crear y ejecutar cosas en tu equipo según los permisos que elijas. Revisa lo que apruebas, sobre todo con el modo administrador.
+
+6 · Tus datos son tuyos.
+Las conversaciones se guardan en tu equipo y puedes borrarlas cuando quieras. El token se guarda cifrado y ningún dato tuyo se envía al autor.
+
+7 · Sin garantía.
+Se entrega «tal cual». Haz copia de lo importante antes de pedirle cambios grandes a Claude: el autor no responde por pérdidas de datos.
+
+8 · Actualizaciones.
+JHX//CORE busca versiones nuevas y siempre te pregunta antes de instalarlas.
