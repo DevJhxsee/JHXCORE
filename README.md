@@ -18,7 +18,7 @@ Un chat propio para usar Claude Code en tu PC o en una memoria USB, listo en min
 JHX//CORE es una aplicación para Windows que te da un **chat propio para Claude Code**, con el motor de IA ya incluido. Vinculas tu cuenta de Claude una sola vez, creas un PIN de 6 números y desde entonces solo escribes tu PIN y trabajas.
 
 - **Listo para usar:** el instalador trae Claude Code adentro; no hay que instalar nada más.
-- **Tu sesión, protegida:** tu token queda cifrado y se abre con tu PIN. Nunca se guarda en claro.
+- **Tu sesión, protegida:** tu token queda cifrado y se abre con tu PIN. Nunca se guarda en claro. Al vincular, el token se recibe automáticamente al autorizar en el navegador (sin consolas ni copiar y pegar).
 - **En tu PC o en una memoria:** instálalo en este equipo o llévalo en un USB / disco externo y úsalo en cualquier PC.
 - **Evitar copias:** si alguien copia o mueve el programa, la sesión vinculada se cierra y hay que vincular otra vez. [Cómo funciona](docs/evitar-copias.md).
 - **Tú mandas:** eliges qué puede hacer Claude sin preguntarte (preguntar siempre, preguntar solo lo peligroso o permitir todo).

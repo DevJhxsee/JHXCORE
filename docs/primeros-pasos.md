@@ -4,7 +4,7 @@ La primera vez que abres JHX//CORE aparece un **recorrido guiado**: oscurece la 
 
 ## Lo mínimo para empezar
 
-1. **Vincular (F5).** Se abre el inicio de sesión de Claude. Entra con tu cuenta, copia el token que aparece, pégalo en JHX//CORE y crea tu **PIN de 6 números**. Se hace una sola vez.
+1. **Vincular (F5).** Pulsa «iniciar sesión en el navegador» y autoriza el acceso con tu cuenta de Claude. El token se recibe **automáticamente**, sin consolas y sin que se vea en pantalla: va directo a la caja fuerte cifrada. Después creas tu **PIN de 6 números**. Se hace una sola vez. (Si prefieres, elige el modo **manual** y copia el token tú mismo.)
 2. **Tu PIN.** Escríbelo directamente con el teclado (sin hacer clic).
 3. **Carpeta de trabajo.** Elige dónde va a trabajar Claude (se recuerda en este PC). Si no eliges ninguna, usa «JHXCORE Proyectos» dentro de Descargas.
 4. **Iniciar Claude Code (F1 o Enter).** Se verifica tu PIN y se abre el chat.
