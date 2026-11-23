@@ -32,6 +32,18 @@ JHX//CORE es una aplicación para Windows que te da un **chat propio para Claude
 
 <div align="center">
 
+<img src="imagenes/app-principal.png" width="340" alt="Ventana principal de JHX//CORE" />
+
+*La ventana principal: tu cuenta, el PIN, la carpeta de trabajo y todo a un clic.*
+
+<br />
+
+<img src="imagenes/app-chat.png" width="820" alt="El chat de JHX//CORE" />
+
+*El chat, con tus conversaciones a la izquierda y el panel de comandos a la derecha.*
+
+<br />
+
 | Instalador | Tipo de instalación |
 |:---:|:---:|
 | <img src="imagenes/instalador-bienvenida.png" width="380" /> | <img src="imagenes/instalador-tipo-usb.png" width="380" /> |
