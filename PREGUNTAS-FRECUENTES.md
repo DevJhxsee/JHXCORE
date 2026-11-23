@@ -1,5 +1,8 @@
 # Preguntas frecuentes
 
+### ¿Qué plan de Claude necesito?
+Como mínimo **Claude Pro** (también sirven Max, Team y Enterprise), con acceso a Claude Code. JHX//CORE vincula tu cuenta con el *token de validación* de Claude, y Anthropic solo lo entrega a cuentas con suscripción: **con el plan gratuito no se puede generar**. JHX//CORE no vende ni incluye ningún plan: usa el tuyo.
+
 ### ¿Tengo que instalar Claude Code aparte?
 No. El instalador ya trae Claude Code adentro. Si hay una versión más nueva, JHX//CORE te lo avisa y **te pregunta antes** de actualizarlo.
 

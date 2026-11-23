@@ -4,6 +4,8 @@ La primera vez que abres JHX//CORE aparece un **recorrido guiado**: oscurece la 
 
 ## Lo mínimo para empezar
 
+> **Antes de empezar:** necesitas, como mínimo, un plan **Claude Pro** (o Max, Team o Enterprise). El token de validación que usa JHX//CORE no está disponible en el plan gratuito.
+
 1. **Vincular (F5).** Pulsa «iniciar sesión en el navegador» y autoriza el acceso con tu cuenta de Claude. El token se recibe **automáticamente**, sin consolas y sin que se vea en pantalla: va directo a la caja fuerte cifrada. Después creas tu **PIN de 6 números**. Se hace una sola vez. (Si prefieres, elige el modo **manual** y copia el token tú mismo.)
 2. **Tu PIN.** Escríbelo directamente con el teclado (sin hacer clic).
 3. **Carpeta de trabajo.** Elige dónde va a trabajar Claude (se recuerda en este PC). Si no eliges ninguna, usa «JHXCORE Proyectos» dentro de Descargas.

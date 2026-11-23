@@ -51,7 +51,7 @@ Guía completa con todas las opciones: [docs/instalacion.md](docs/instalacion.md
 ## Requisitos
 
 - Windows 10 o 11 de 64 bits.
-- Una cuenta de Claude con acceso a Claude Code.
+- **Un plan de Claude de pago: como mínimo Claude Pro** (también sirven Max, Team y Enterprise) con acceso a Claude Code. Para vincular la cuenta, JHX//CORE usa el *token de validación* de Claude (`setup-token`), y Anthropic solo lo entrega a cuentas con suscripción: **el plan gratuito no lo incluye**.
 - Unos 400 MB libres (en la unidad que elijas).
 - Internet para vincular la cuenta y para usar Claude (el programa en sí no la necesita).
 
