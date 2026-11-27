@@ -1,6 +1,6 @@
 JHX//CORE — Licencia de uso
 
-Copyright (c) 2026 JHX (DevJhxsee). Todos los derechos reservados.
+Copyright (c) 2026 JHX (Tokyo-Jhx). Todos los derechos reservados.
 
 Se te permite instalar y usar JHX//CORE, tal como se distribuye en este repositorio,
 para tu uso personal y con tu propia cuenta de Claude.
